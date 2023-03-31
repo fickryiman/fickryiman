@@ -1,6 +1,6 @@
 <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340">
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
 <h4><em>Remote Full-stack web developer ready for adventure</em> &nbsp; <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fickry-bil-iman/)](https://www.linkedin.com/in/fickry-bil-iman/)
