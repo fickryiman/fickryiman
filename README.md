@@ -27,7 +27,7 @@ const fickrybiliman = {
 ```
 
 
-[![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman)](https://github.com/fickryiman/github-readme-stats)
+[![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&theme=radical)](https://github.com/fickryiman/github-readme-stats)
 
 
 
