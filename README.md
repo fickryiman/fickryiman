@@ -28,12 +28,12 @@ const fickrybiliman = {
 
 ### 📈 GitHub Activity Graph:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman)](https://github.com/fickryiman/github-readme-stats)
 
 
 
 <p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman)](https://github.com/fickryiman/github-readme-stats)
 
 <!--
 **fickryiman/fickryiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
