@@ -10,18 +10,18 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/gQwXqEOKFJ8GMUbMTF/giphy.gif" width="100"> &nbsp;&nbsp; about me...  
+### <img src="https://media.giphy.com/media/gQwXqEOKFJ8GMUbMTF/giphy.gif" width="100"> &nbsp; about me...  
 
 ```javascript
 const fickrybiliman = {
-  🔭 lookingFor: ["Full-stack web developer", "Front-end developer", "Back-end developer"],
-  😄 pronouns: ["he", "him"],
-  👯 code: ['JavaScript', 'React', 'Redux', 'Ruby on Rails', 'HTML/CSS', 'MySQL', 'PostgreSQL', 'MongoDB'],
-  💬 askMeAbout: ['javascript', 'computer network', 'food recipes', 'music', 'sport'],
-  🤔 challenge: `being an international full-time remote full-stack web developer`,
-  ⚡funFacts: [`In a few years I see myself working in a more client-facing role with the company`, 
-                `I love cooking and every Sunday my partner and I pick a new recipe to prepare together`,
-                'My dreams are sometimes in Austria or Netherlands']
+  lookingFor: ["Full-stack web developer", "Front-end developer", "Back-end developer"],
+  pronouns: ["he", "him"],
+  code: ['JavaScript', 'React', 'Redux', 'Ruby on Rails', 'HTML/CSS', 'MySQL', 'PostgreSQL', 'MongoDB'],
+  askMeAbout: ['javascript', 'computer network', 'food recipes', 'music', 'sport'],
+  challenge: `being an international full-time remote full-stack web developer`,
+  funFacts: [`In a few years I see myself working in a more client-facing role with the company`, 
+              `I love cooking and every Sunday my partner and I pick a new recipe to prepare together`,
+              'My dreams are sometimes in Austria or Netherlands']
 };
 ```
 <br>
