@@ -8,6 +8,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/fickry.bil.iman/)](https://www.facebook.com/fickry.bil.iman/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/6285305670089)](https://wa.me/6285305670089)
 
+<br>
+
 ### <img src="https://media.giphy.com/media/gQwXqEOKFJ8GMUbMTF/giphy.gif" width="100"> &nbsp;&nbsp; about me...  
 
 ```javascript
