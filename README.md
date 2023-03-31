@@ -1,6 +1,6 @@
 <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340">
 <h4><em>Remote Full-stack web developer ready for adventure</em> &nbsp; <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fickry-bil-iman/)](https://www.linkedin.com/in/fickry-bil-iman/)
@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/fickry.bil.iman/)](https://www.facebook.com/fickry.bil.iman/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/6285305670089)](https://wa.me/6285305670089)
 
-### <img src="https://media.giphy.com/media/gQwXqEOKFJ8GMUbMTF/giphy.gif" width="70"> &nbsp;&nbsp; about me...  
+### <img src="https://media.giphy.com/media/gQwXqEOKFJ8GMUbMTF/giphy.gif" width="140"> &nbsp;&nbsp; about me...  
 
 <!--
 **fickryiman/fickryiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
