@@ -12,18 +12,13 @@
 
 ```javascript
 const fickrybiliman = {
-  lookingFor: "Full-stack web developer" || "Front-end developer" 
-  || "Back-end developer",
+  lookingFor: "Full-stack web developer" || "Front-end developer" || "Back-end developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, MySQL, 
-  PostgreSQL, MongoDB],
-  askMeAbout: [javascript, computer network, food recipes, music],
-  challenge: `being a full-time remote full-stack web developer
-  for american/european company`,
-  funFacts: ['If I could work in a different department for the day'
-  'I would choose the marketing team because their projects are dynamic' 
-  'and interesting, I love cooking and every Sunday my partner'
-  'and I pick a new recipe to prepare together,' 
+  code: ['JavaScript', 'React', 'Redux', 'Ruby on Rails', 'HTML/CSS', 'MySQL', 'PostgreSQL', 'MongoDB'],
+  askMeAbout: ['javascript', 'computer network', 'food recipes', 'music'],
+  challenge: 'being a full-time remote full-stack web developer for american/european company',
+  funFacts: ['If I could work in a different department for the day I would choose the marketing team because their projects are dynamic and interesting', 
+  'I love cooking and every Sunday my partner and I pick a new recipe to prepare together',
   'My dreams are sometimes in Austria or Netherlands']
 }
 ```
