@@ -1,7 +1,7 @@
 <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em><h3>Remote Full-stack web developer ready for adventure</h3></em><img src="https://media.giphy.com/media/YNYSyuGCHT7he/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/YNYSyuGCHT7he/giphy.gif" width="50"></p>
 
 <!--
 **fickryiman/fickryiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
