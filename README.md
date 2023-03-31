@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi 👋, I'm Fickry Bil Iman! <img src="" width="70>
 
 <!--
 **fickryiman/fickryiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
