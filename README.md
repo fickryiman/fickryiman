@@ -17,7 +17,8 @@ const fickrybiliman = {
   pronouns: ["he", "him"],
   code: ['JavaScript', 'React', 'Redux', 'Ruby on Rails', 
   'HTML/CSS', 'MySQL', 'PostgreSQL', 'MongoDB'],
-  askMeAbout: ['javascript', 'computer network', 'food recipes', 'music'],
+  askMeAbout: ['javascript', 'computer network', 'food recipes', 
+  'music', 'sport'],
   challenge: `being a full-time remote full-stack
   web developer international`,
   funFacts: [`In a few years I see myself working in a more 
