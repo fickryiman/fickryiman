@@ -10,7 +10,7 @@
 
 <br>
 
-### <img src="https://media.giphy.com/media/elgDkpahT6JDEkHluo/giphy.gif" width="100"> &nbsp; about me...  
+### <img src="https://media.giphy.com/media/S9Lb1hhD1c1Xvto9Rc/giphy.gif" width="100"> &nbsp; about me...  
 
 ```javascript
 const fickrybiliman = {
