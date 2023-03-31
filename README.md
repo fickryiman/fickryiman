@@ -28,34 +28,12 @@ const fickrybiliman = {
 
 ### 📈 GitHub Activity Graph:
 
-<table>
-    <tr>
-        <td align="center">
-          <a href="https://github.com/fickryiman#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=fickryiman&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/fickryiman#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=fickryiman&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
-          </a>
-        </td>
-        <td rowspan="2" align="center"><a href="https://github.com/fickryiman#gh-light-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
-          <a>
-          <a href="https://github.com/fickryiman#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
-          </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/fickryiman#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fickryiman&theme=default"/></a><a href="https://github.com/fickryiman#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fickryiman&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/fickryiman#gh-light-mode-only"><img src="https://raw.githubusercontent.com/fickryiman/fickryiman/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/fickryiman#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/fickryiman/fickryiman/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-</table>
+
 
 
 <p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman)](https://github.com/fickryiman/github-readme-stats)
 
 <!--
 **fickryiman/fickryiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
