@@ -30,8 +30,6 @@ const fickrybiliman = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&theme=dracula)](https://github.com/fickryiman/github-readme-stats)
 
-
-
 <br>
 
 <p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
