@@ -27,7 +27,8 @@ const fickrybiliman = {
 <br>
 
 [![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&theme=dracula)](https://github.com/fickryiman/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fickryiman&repo=github-readme-stats)](https://github.com/fickryiman/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman)](https://github.com/fickryiman/github-readme-stats)
 
 <br>
 
