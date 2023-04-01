@@ -3,6 +3,7 @@
 
 <img align="center" src="https://github.com/fickryiman/fickryiman/blob/main/Fickry%20Bil%20Iman.png">
 
+<br>
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310">
 <h4><em>Remote Full-stack web developer ready for adventure</em> &nbsp; <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h4>
