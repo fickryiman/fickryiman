@@ -6,7 +6,7 @@
 <br>
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310">
-<h4><em>Remote Full-stack web developer ready for adventure</em> &nbsp; <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h4>
+<h4><em>Full-stack software developer ready for adventure</em> &nbsp; <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fickry-bil-iman/)](https://www.linkedin.com/in/fickry-bil-iman/)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://fickrybiliman.com/)](https://fickrybiliman.com/)
