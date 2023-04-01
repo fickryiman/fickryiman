@@ -1,7 +1,7 @@
 > <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
 
-[![Fickry Bil Iman has a lot of ideas.](https://photos.app.goo.gl/HUSF1SwFBCrGVDhr9)](https://www.fickrybiliman.com)
+[![Fickry Bil Iman has a lot of ideas.](https://photos.app.goo.gl/MiiZkvSF317DadxcA)](https://www.fickrybiliman.com)
 
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310">
