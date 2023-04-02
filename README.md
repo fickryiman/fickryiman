@@ -50,7 +50,7 @@ const fickrybiliman = {
 <p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <p align="center"> 
-  Visitor count<br><br>
+  :: Visitor count ::<br><br>
   <img src="https://profile-counter.glitch.me/fickryiman/count.svg" />
 </p>
 
