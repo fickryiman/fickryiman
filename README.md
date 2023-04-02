@@ -38,8 +38,9 @@ const fickrybiliman = {
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" />
 </p>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
-
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula />
+</p>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula) -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
