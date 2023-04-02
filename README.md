@@ -36,16 +36,13 @@ const fickrybiliman = {
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" alt="fickryiman" />
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
+<br>
 
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" alt="fickryiman" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
-
-<p align="center">
-  ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
-</p>
-
+<img align="center" src="https://github4life.herokuapp.com/fickryiman.gif?z=6" alt="fickryiman" />
 
 <br>
 
