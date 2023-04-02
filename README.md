@@ -50,8 +50,11 @@ const fickrybiliman = {
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 </p>
 
+<!-- ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6) -->
 
-![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
+<p align="center">
+  <img align="center" src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
+</p>
 
 <br>
 
