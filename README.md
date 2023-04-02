@@ -39,7 +39,7 @@ const fickrybiliman = {
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" />
 </p>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula) -->
 
