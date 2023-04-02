@@ -34,10 +34,13 @@ const fickrybiliman = {
 
 ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
+<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula) -->
+<p align="center"> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" alt="fickryiman" />
+</p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
+  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" />
 </p>
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
@@ -45,7 +48,7 @@ const fickrybiliman = {
 <p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/fickryiman/count.svg" />
 </p>
 
