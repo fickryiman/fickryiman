@@ -35,9 +35,10 @@ const fickrybiliman = {
 <!-- ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula) -->
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula" />
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" />
-  <p></p>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
+  <img align="center" src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
 </p>
 
 <br>
@@ -47,13 +48,11 @@ const fickrybiliman = {
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula) -->
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 </p>
 
 <!-- ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6) -->
 
 <p align="center">
-  <img align="center" src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
 </p>
 
 <br>
