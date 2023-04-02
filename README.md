@@ -32,13 +32,18 @@ const fickrybiliman = {
 <br>
 
 
-![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula)
+  ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
 
-<img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact)
+
+
+
+  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
 
 <p align="center">
