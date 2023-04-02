@@ -1,11 +1,11 @@
 > <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
+
 <img align="center" src="https://github.com/fickryiman/fickryiman/blob/main/banner.png">
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310">
-
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310">
 <h4><em>Full-stack software developer ready for adventure</em> &nbsp; <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fickry-bil-iman/)](https://www.linkedin.com/in/fickry-bil-iman/)
@@ -32,17 +32,15 @@ const fickrybiliman = {
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula" alt="fickryiman" />
+![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" alt="fickryiman" />
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
 
-<p></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact)
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" alt="fickryiman" />
+<img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
-
-<img align="center" src="https://github4life.herokuapp.com/fickryiman.gif?z=6" alt="fickryiman" />
+![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
 
 <br>
 
