@@ -36,6 +36,7 @@ const fickrybiliman = {
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" />
+  <p></p>
 </p>
 
 <br>
