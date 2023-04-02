@@ -38,6 +38,8 @@ const fickrybiliman = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact)
 
+<p align="center"> <a href="https://github.com/fickryiman/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fickryiman" alt="fickryiman" /></a> </p>
+
 ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
 
 
