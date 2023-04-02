@@ -34,18 +34,18 @@ const fickrybiliman = {
 
 <!-- ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula) -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" />
 </p>
 
 <br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula" />
 </p>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula) -->
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
 
