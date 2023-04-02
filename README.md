@@ -1,6 +1,6 @@
 > <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fickryiman&label=Profile%20views&color=0e75b6&style=flat" alt="fickryiman" /> </p>
 <img align="center" src="https://github.com/fickryiman/fickryiman/blob/main/banner.png">
 
 <br>
@@ -32,11 +32,12 @@ const fickrybiliman = {
 <br>
 
 
-![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=dracula" alt="fickryiman" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula" alt="fickryiman />
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=dracula)
 
 <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
