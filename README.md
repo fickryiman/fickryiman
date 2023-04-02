@@ -36,9 +36,7 @@ const fickrybiliman = {
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=dracula)
 
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" /></a> 
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
 
