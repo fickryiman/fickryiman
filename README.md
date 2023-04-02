@@ -1,4 +1,4 @@
-> <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
+p> <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
 
 <img align="center" src="https://github.com/fickryiman/fickryiman/blob/main/banner.png">
@@ -48,10 +48,14 @@ const fickrybiliman = {
 </p>
 
 <p>
-  You can check out my portfolio 
-  <a href="https://fickrybiliman.com">here</a>
-  <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
-  :: Visitor count :: <img src="https://profile-counter.glitch.me/fickryiman/count.svg" />
+  <p align="left">
+    You can check out my portfolio 
+    <a href="https://fickrybiliman.com">here</a>
+    <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60" />
+  </p>
+  <p align="right">
+    :: Visitor count &nbsp;&nbsp;&nbsp; <img src="https://profile-counter.glitch.me/fickryiman/count.svg" />
+  </p>
 </p>
 
 <!-- <p align="center"> 
