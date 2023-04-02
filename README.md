@@ -43,7 +43,9 @@ const fickrybiliman = {
   <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" />
 </p>
 
-![GitHub Game of Life](https://github4life.herokuapp.com/fickryiman.gif?z=6)
+<p align="center"> 
+  <img src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
+</p>
 
 <p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
