@@ -47,12 +47,17 @@ const fickrybiliman = {
   <img src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
 </p>
 
-<p>You can check out my portfolio <a href="https://fickrybiliman.com">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>
+  You can check out my portfolio 
+  <a href="https://fickrybiliman.com">here</a>
+  <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+  :: Visitor count :: <img src="https://profile-counter.glitch.me/fickryiman/count.svg" />
+</p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   :: Visitor count ::<br><br>
   <img src="https://profile-counter.glitch.me/fickryiman/count.svg" />
-</p>
+</p> -->
 
 <!--
 **fickryiman/fickryiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
