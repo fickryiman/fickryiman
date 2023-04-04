@@ -42,9 +42,9 @@ const fickrybiliman = {
   <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=dracula" alt="fickryiman" />
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
-</p>
+</p> -->
 
 <p>
   You can check out my portfolio 
