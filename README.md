@@ -44,11 +44,11 @@ const fickrybiliman = {
 
 
 <p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord_dark" alt="fickryiman" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=tokyonight" alt="fickryiman" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord_dark" alt="fickryiman" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=react" alt="fickryiman" />
 </p>
 
 <!-- <p align="center"> 
