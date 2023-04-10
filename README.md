@@ -34,11 +34,11 @@ const fickrybiliman = {
 
 <!-- ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=react) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fickryiman&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fickryiman&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fickryiman&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fickryiman&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fickryiman&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fickryiman&theme=solarized&utcOffset=7)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fickryiman&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fickryiman&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fickryiman&theme=nord_dark&utcOffset=7)
 
 
 <p align="center"> 
