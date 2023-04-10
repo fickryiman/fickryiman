@@ -44,7 +44,7 @@ const fickrybiliman = {
 
 
 <p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=tokyonight_duo" alt="fickryiman" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord" alt="fickryiman" />
 </p>
 
 <p align="center"> 
