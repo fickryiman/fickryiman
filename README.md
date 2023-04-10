@@ -38,7 +38,7 @@ const fickrybiliman = {
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fickryiman&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fickryiman&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fickryiman&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fickryiman&theme=solarized}&utcOffset=7)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fickryiman&theme=solarized&utcOffset=7)
 
 
 <p align="center"> 
