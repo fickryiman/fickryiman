@@ -48,7 +48,7 @@ const fickrybiliman = {
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=react" alt="fickryiman" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord" alt="fickryiman" />
 </p>
 
 <!-- <p align="center"> 
