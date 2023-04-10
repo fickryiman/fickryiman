@@ -26,7 +26,7 @@ const fickrybiliman = {
   challenge   : `being an international full-time remote full-stack software developer`,
   funFacts    : [`In a few years I see myself working in a more client-facing role with the company`, 
                  `I love cooking and every Sunday my partner and I pick a new recipe to prepare together`,
-                 'My dreams are sometimes in Austria or Netherlands']
+                 'My dreams are sometimes in Austria or Holland']
 };
 ```
 <br>
