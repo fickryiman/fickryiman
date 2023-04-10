@@ -34,7 +34,7 @@ const fickrybiliman = {
 
 ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=react)
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fickryiman&theme=2077
+![Fickry's Summary cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fickryiman&theme=2077)
 
 <p align="center"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=react" alt="fickryiman" />
