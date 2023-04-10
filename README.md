@@ -36,6 +36,8 @@ const fickrybiliman = {
 
 ![Fickry's Summary cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fickryiman&theme=tokyonight)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fickryiman&theme=nord_dark)
+
 <p align="center"> 
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=react" alt="fickryiman" />
 </p>
