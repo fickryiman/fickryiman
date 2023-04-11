@@ -40,16 +40,18 @@ const fickrybiliman = {
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fickryiman&theme=nord_dark" alt="github profile summary cards" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fickryiman&theme=nord_dark" alt="github profile summary cards" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fickryiman&theme=nord_dark&utcOffset=7" alt="github profile summary cards" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord" alt="github readme streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord" alt="github profile trophy" />
 </div>
 
 
-<p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord" alt="fickryiman" />
+<!-- <p align="center"> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord" alt="github readme streak stats" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord" alt="fickryiman" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord" alt="github profile trophy" />
+</p> -->
 
 <!-- <p align="center"> 
   <img src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
