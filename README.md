@@ -23,7 +23,7 @@ const fickrybiliman = {
   pronouns    : ["he", "him"],
   code        : ['JavaScript', 'React', 'Redux', 'Ruby', 'Ruby on Rails', 'HTML/CSS', 'PostgreSQL', 'MongoDB'],
   askMeAbout  : ['javascript', 'computer network', 'data structure', 'food recipes', 'music', 'sport'],
-  challenge   : `being an international full-time remote full-stack software developer`,
+  challenge   : `being a worldwide full-time remote full-stack software developer`,
   funFacts    : [`In a few years I see myself working in a more client-facing role with the company`, 
                  `I love cooking and every Sunday my partner and I pick a new recipe to prepare together`,
                  'My dreams are sometimes in Austria or Holland']
