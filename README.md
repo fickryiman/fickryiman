@@ -1,8 +1,5 @@
 > <h2> Hi, I'm Fickry Bil Iman &nbsp;&nbsp; <img src="https://media.giphy.com/media/wcC8VA7quA6G9pA8Iy/giphy.gif" width="100"></h2>
 
-
-<!-- <img align="center" src="https://github.com/fickryiman/fickryiman/blob/main/banner.png"> -->
-
 <br>
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310">
@@ -31,9 +28,6 @@ const fickrybiliman = {
 ```
 <br>
 
-
-<!-- ![Fickry's GitHub stats](https://github-readme-stats.vercel.app/api?username=fickryiman&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fickryiman&layout=compact&theme=react) -->
-
 <div align="center"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fickryiman&theme=nord_dark" alt="github profile summary cards" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fickryiman&theme=nord_dark" alt="github profile summary cards" />
@@ -43,19 +37,6 @@ const fickrybiliman = {
   <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord" alt="github readme streak stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord" alt="github profile trophy" />
 </div>
-
-
-<!-- <p align="center"> 
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=fickryiman&theme=nord" alt="github readme streak stats" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=fickryiman&theme=nord" alt="github profile trophy" />
-</p> -->
-
-<!-- <p align="center"> 
-  <img src="https://github4life.herokuapp.com/fickryiman.gif?z=6" />
-</p> -->
 
 <p>
   You can check out my portfolio 
